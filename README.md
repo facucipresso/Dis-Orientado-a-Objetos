@@ -1,2 +1,2 @@
-# Dise-o-Orientado-a-Objetos
+# Diseño-Orientado-a-Objetos
 Trabajo Final DOO
